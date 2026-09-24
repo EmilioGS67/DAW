@@ -10,4 +10,6 @@ echo $x/=4;
 echo "<br>";
 echo $x%=3; 
 
+// Comentario prueba
+
 ?>
