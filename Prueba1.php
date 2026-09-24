@@ -16,4 +16,6 @@ echo "¿Es la variable 1 mayor que la variable 2?: ", $var1 > $var2, "<br>";
 echo "¿Es la variable 1 igual que la variable 2?: ", $var1 == $var2, "<br>";
 echo "¿Son ambos números mayores que 5?: ", $var1,$var2 > 5, "<br>";
 echo "¿Es alguno de los número menores que 5?: ", $var1 < 5, $var2 <5, "<br>";
+
+// Mira cómo galopa, a 4
 ?>
